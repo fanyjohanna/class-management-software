@@ -22,11 +22,8 @@
                 </P>
                 <p>
                     Course : {{$teacher->course}}
-                </p></h3>
-				</div>
-            
-           
-           
-        </div>
+                </p>
+            </h3>
+		</div>
     </div>
 @endsection
